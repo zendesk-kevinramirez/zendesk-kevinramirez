@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kevin Ramirez (@zendesk-kevinramirez)
 - 👀 I’m interested in software development, business/entreprenuership, product, and team development.
-- 🌱 I’m currently learning Ruby & Rails framework.  Main focus right now is Ruby/Rails however in the future I would like to learn more about Scala, Go, more advanced Javascript, and more about security and reliability.
 
 - 📫 I can be reached on my LinkedIn: https://www.linkedin.com/in/kevin-ramirez-b37326183
 
